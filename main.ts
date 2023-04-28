@@ -1,15 +1,16 @@
-console.log("Hello world");
+var myVar: string;
+myVar = 'ciao';
 
-interface MyInterface {
-    myNumber: number;
-    myString: string;
-}
+let myLetVar: string= 'ciao';
+myLetVar = 'ciao2';
 
-let myInterface : MyInterface = {
-    myNumber: 10,
-    myString: "Hello world",
+const myConst: string= 'ciaooo';
 
-};
+let myNumber: number = 0.242;
 
-console.log('myNumber = ', myInterface.myNumber);
-console.log('myString =', myInterface.myString);
+let myBoolean: boolean = false;
+
+
+let myNumber2: null = null;
+
+console.log('my number = ', myNumber2);
