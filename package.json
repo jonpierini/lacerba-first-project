@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "jonpierini",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/jonpierini/lacerba-first-project"
+  }
 }
